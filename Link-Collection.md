@@ -46,7 +46,7 @@
 
 ### Responsive Web Design
 - [Responsive Web Design - Basics (web.dev)](https://web.dev/responsive-web-design-basics/)
-- [Responsive Web Design - Introduction (w3schools.com](https://www.w3schools.com/Css/css_rwd_intro.asp)
+- [Responsive Web Design - Introduction (w3schools.com)](https://www.w3schools.com/Css/css_rwd_intro.asp)
 
 ### Libraries
 - [Bootstrap](https://getbootstrap.com/)
