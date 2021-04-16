@@ -10,8 +10,10 @@
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ## References
-- [State of Js (2020)][https://2020.stateofjs.com/en-US/]
+- [State of Js (2020)](https://2020.stateofjs.com/en-US/)
 - [caniuse.com](https://caniuse.com/)
+- [Top JavaScript Frameworks and Tech Trends for 2021](https://medium.com/javascript-scene/top-javascript-frameworks-and-tech-trends-for-2021-d8cb0f7bda69)
+- [9 Web Components UI Libraries You Should Know in 2021](https://blog.bitsrc.io/9-web-component-ui-libraries-you-should-know-in-2019-9d4476c3f103)
 
 ## Jamstack
 - [Product Page](https://jamstack.org/)
@@ -25,3 +27,6 @@
 
 ## Svelte
 - [Product Page](https://svelte.dev/)
+
+## Product Comparisons
+- [Svelte vs React - Which one to chose?](https://rejolut.com/svelte-vs-react/)
