@@ -30,3 +30,29 @@
 
 ## Product Comparisons
 - [Svelte vs React - Which one to chose?](https://rejolut.com/svelte-vs-react/)
+
+## Cross Platform Development
+
+### Progressive Web Apps (PWA)
+- [What are Progressive Web Apps?](https://web.dev/what-are-pwas/)
+- [Angular service worker introduction](https://angular.io/guide/service-worker-intro)
+
+### Cross Platform Libraries
+- [Ionic](https://ionicframework.com/)
+- [NativeScript](https://nativescript.org/)
+- [ReactNative](https://reactnative.dev/)
+
+## Styling
+
+### Responsive Web Design
+- [Responsive Web Design - Basics (web.dev)](https://web.dev/responsive-web-design-basics/)
+- [Responsive Web Design - Introduction (w3schools.com](https://www.w3schools.com/Css/css_rwd_intro.asp)
+
+### Libraries
+- [Bootstrap](https://getbootstrap.com/)
+- [Material Design](https://material.io/)
+- [PrimeFaces: PrimeNg](https://www.primefaces.org/primeng/)
+- [PrimeFaces: PrimeReact](https://www.primefaces.org/primereact/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [styled components](https://styled-components.com/)
+- [Emotion: Styled Components](https://emotion.sh/docs/styled)
