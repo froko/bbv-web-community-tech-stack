@@ -24,7 +24,7 @@ The choice of frameworks, libraries and tools is based upon the following factor
 
 ### Can use:
 - **Vue.js** (<span style="background:yellow; color: green">opinions?</span>)
-- **Razor** (<span style="background:yellow; color: green">opinions?</span>)
+- **Razor/Blazor** (<span style="background:yellow; color: green">opinions?</span>)
 
 ### Explore:
 - **Svelte**
