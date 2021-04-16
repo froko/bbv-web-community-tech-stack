@@ -50,6 +50,7 @@ The choice of frameworks, libraries and tools is based upon the following factor
 
 ### Use:
 - **ReactNative**
+- **NativeScript**
 - **Ionic**
 - **Progressive Web App (PWA)**
 - **Electron**
